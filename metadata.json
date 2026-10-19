@@ -1,0 +1,6 @@
+{
+  "name": "BloodBond - Emergency Blood Donor Network",
+  "description": "Connect blood donors with patients in emergency need. Register as a donor, search by blood group and location, request emergency blood, and save lives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
